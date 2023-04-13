@@ -8,8 +8,13 @@
 [![Twitter](https://img.shields.io/static/v1?style=for-the-badge&label=@Varneon&message=3K&color=1b9df0&logo=twitter)](https://twitter.com/Varneon)
 [![Patreon](https://img.shields.io/static/v1?style=for-the-badge&label=Varneon&message=50&color=ff424e&logo=patreon)](https://www.patreon.com/Varneon)
 [![YouTube](https://img.shields.io/static/v1?style=for-the-badge&label=Varneon&message=1K&color=f20000&logo=youtube)](https://www.youtube.com/Varneon)
-[![VRChat - Worlds](https://img.shields.io/static/v1?style=for-the-badge&label=VRChat&message=Worlds&color=ffffff)](https://vrchat.com/home/search/Varneon)
-[![FAQ - Worlds](https://img.shields.io/static/v1?style=for-the-badge&label=FAQ&message=Worlds&color=ffffff)](https://github.com/Varneon/Varneon/wiki/Frequently-Asked-Questions-%7C-Worlds)
-[![FAQ - Patreon](https://img.shields.io/static/v1?style=for-the-badge&label=FAQ&message=Patreon&color=ff424e)](https://github.com/Varneon/Varneon/wiki/Frequently-Asked-Questions-%7C-Patreon)
-  
+[![VRChat - Worlds](https://img.shields.io/static/v1?style=for-the-badge&label=VRChat&message=Worlds&color=064b5c)](https://vrchat.com/home/search/Varneon)
+
+</div>
+
+<div align="center">
+
+[![FAQ - Worlds](https://img.shields.io/static/v1?style=flat-square&label=FAQ&message=Worlds&color=064b5c)](https://github.com/Varneon/Varneon/wiki/Frequently-Asked-Questions-%7C-Worlds)
+[![FAQ - Patreon](https://img.shields.io/static/v1?style=flat-square&label=FAQ&message=Patreon&color=ff424e)](https://github.com/Varneon/Varneon/wiki/Frequently-Asked-Questions-%7C-Patreon)
+
 </div>
