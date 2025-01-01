@@ -15,6 +15,5 @@
 <div align="center">
 
 [![FAQ - Worlds](https://img.shields.io/static/v1?style=flat-square&label=FAQ&message=Worlds&color=064b5c)](https://github.com/Varneon/Varneon/wiki/Frequently-Asked-Questions-%7C-Worlds)
-[![FAQ - Patreon](https://img.shields.io/static/v1?style=flat-square&label=FAQ&message=Patreon&color=ff424e)](https://github.com/Varneon/Varneon/wiki/Frequently-Asked-Questions-%7C-Patreon)
 
 </div>
