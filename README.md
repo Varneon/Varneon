@@ -6,9 +6,9 @@
 <div align="center">
 
 [![Twitter](https://img.shields.io/static/v1?style=for-the-badge&label=@Varneon&message=7.9K&color=1b9df0&logo=x)](https://twitter.com/Varneon)
-[![Patreon](https://img.shields.io/static/v1?style=for-the-badge&label=Varneon&message=50&color=ff424e&logo=patreon)](https://www.patreon.com/Varneon)
+[![Patreon](https://img.shields.io/static/v1?style=for-the-badge&label=Varneon&message=24&color=ff424e&logo=patreon)](https://www.patreon.com/Varneon)
 [![YouTube](https://img.shields.io/static/v1?style=for-the-badge&label=Varneon&message=1.4K&color=f20000&logo=youtube)](https://www.youtube.com/Varneon)
-[![VRChat - Worlds](https://img.shields.io/static/v1?style=for-the-badge&label=VRChat&message=Worlds&color=064b5c&logo=vrchat)](https://vrchat.com/home/search/Varneon)
+[![VRChat - Worlds](https://img.shields.io/static/v1?style=for-the-badge&label=Varneon&message=Worlds&color=064b5c&logo=vrchat&logoSize=auto)](https://vrchat.com/home/search/Varneon)
 
 </div>
 
